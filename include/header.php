@@ -11,7 +11,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="">Precedural</a></li>
                 <li><a href="">OOP</a></li>
                 <li><a href="">PDO</a></li>
