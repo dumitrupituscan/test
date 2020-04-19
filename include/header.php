@@ -12,9 +12,9 @@
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="">Precedural</a></li>
-                <li><a href="">OOP</a></li>
-                <li><a href="">PDO</a></li>
+                <li><a href="include/proced.php">Precedural</a></li>
+                <li><a href="include/oop.php">OOP</a></li>
+                <li><a href="pdo.php">PDO</a></li>
             </ul>
         </nav>  
     </header>
